@@ -1,6 +1,6 @@
 # Pizza Sales Report
 
-<img width="100" height="100" src="https://img.icons8.com/ios/100/000000/pizza.png" alt="pizza"/>
+<img width="64" height="64" src="https://img.icons8.com/cotton/64/pizza--v2.png" alt="pizza--v2"/>
 
 ## Overview
 
