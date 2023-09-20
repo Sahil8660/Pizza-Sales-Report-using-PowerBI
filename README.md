@@ -33,6 +33,6 @@ This Pizza Sales Report is licensed under the MIT License. See the [LICENSE](LIC
 
 ## Contact
 
-For questions or feedback, please contact [Your Name](mailto:your.email@example.com).
+For questions or feedback, please contact [Sahil Khan](mailto:webflowkhan@gmail.com).
 
 Thank you for exploring our Pizza Sales Report! 🍕📊
