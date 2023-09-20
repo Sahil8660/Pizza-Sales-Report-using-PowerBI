@@ -1,6 +1,6 @@
 # Pizza Sales Report
 
-![Pizza Sales Report](https://your-image-url.com)
+<img width="100" height="100" src="https://img.icons8.com/ios/100/000000/pizza.png" alt="pizza"/>
 
 ## Overview
 
