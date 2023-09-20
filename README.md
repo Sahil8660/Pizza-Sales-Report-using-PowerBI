@@ -22,32 +22,10 @@ To view and interact with the Pizza Sales Report:
    git clone https://github.com/sahil8660/pizza-sales-report.git
    ```
 
-2. Open the `PizzaSalesReport.pbix` file using Power BI Desktop.
+2. Open the `Pizza Sales.pbix` file using Power BI Desktop.
 
 3. Explore the report and customize it to suit your specific needs.
 
-## Contributing
-
-We welcome contributions to improve and expand our Pizza Sales Report. If you have suggestions, bug fixes, or new features to propose, please follow these steps:
-
-1. Fork the repository.
-
-2. Create a new branch for your work.
-   ```bash
-   git checkout -b feature/your-feature
-   ```
-
-3. Make your changes and commit them.
-   ```bash
-   git commit -m "Add your feature description"
-   ```
-
-4. Push your changes to your fork.
-   ```bash
-   git push origin feature/your-feature
-   ```
-
-5. Open a pull request with a clear description of your changes.
 
 ## License
 
